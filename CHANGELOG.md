@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/googleapis/python-monitoring-metrics-scopes/compare/v1.0.0...v1.1.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#25](https://github.com/googleapis/python-monitoring-metrics-scopes/issues/25)) ([293f461](https://github.com/googleapis/python-monitoring-metrics-scopes/commit/293f4619582a8fec50cc2a85012c9b94d13ac050))
+
 ## [1.0.0](https://www.github.com/googleapis/python-monitoring-metrics-scopes/compare/v0.1.1...v1.0.0) (2021-12-03)
 
 
